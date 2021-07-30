@@ -1,0 +1,117 @@
+body {
+  margin: 0;
+  font-family: 'Padauk', sans-serif;
+}
+
+p {
+  font-size: 15px;
+  width: 60%;
+  margin: 20px 0;
+}
+
+.heading {
+  margin: 15px 0 10px 90px;
+  display: inline-block;
+  font-size: 50px;
+}
+
+.tagline {
+  color: #003366;
+  width: 35%;
+  margin-bottom: 0;
+  margin-left: 100px;
+  font-size: 160%;
+}
+
+img {
+  height: 400px;
+  width: 60%;
+  margin-left: 50px;
+}
+
+a {
+  color: #001E6C;
+  text-decoration: none;
+}
+
+.top-container {
+  position: relative;
+  background: linear-gradient(to bottom, #0066ff 20%, #0066ff 100%);
+  color: white;
+  padding: 10px;
+}
+
+.left-container {
+  display: inline;
+  padding: 30px;
+}
+
+.right-container {
+  font-size: 20px;
+  display: inline-block;
+  position: absolute;
+  top: 100px;
+  left: 60%;
+}
+
+.button {
+  display: inline-block;
+  position: absolute;
+  top: 47.5px;
+  right: 60px;
+}
+
+.a {
+  position: absolute;
+  top: 25px;
+  right: 310px;
+}
+
+.b {
+  position: absolute;
+  top: 25px;
+  right: 130px;
+}
+
+.forgot {
+  color: #e3dfdf;
+  position: absolute;
+  bottom: 10px;
+  right: 165px;
+}
+
+.input:value {
+  color: red;
+}
+
+
+
+.signup{
+  margin: 30px 0 40px;
+}
+.btn {
+  background: #439e31;
+  background-image: -webkit-linear-gradient(top, #439e31, #19590f);
+  background-image: -moz-linear-gradient(top, #439e31, #19590f);
+  background-image: -ms-linear-gradient(top, #439e31, #19590f);
+  background-image: -o-linear-gradient(top, #439e31, #19590f);
+  background-image: linear-gradient(to bottom, #439e31, #19590f);
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #3c962a;
+  background-image: -webkit-linear-gradient(top, #3c962a, #3d9e28);
+  background-image: -moz-linear-gradient(top, #3c962a, #3d9e28);
+  background-image: -ms-linear-gradient(top, #3c962a, #3d9e28);
+  background-image: -o-linear-gradient(top, #3c962a, #3d9e28);
+  background-image: linear-gradient(to bottom, #3c962a, #3d9e28);
+  text-decoration: none;
+}
